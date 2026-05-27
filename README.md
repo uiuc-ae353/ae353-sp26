@@ -1,7 +1,6 @@
 # ae353-sp26
 
-
-This repo contains the materials for AE353
+This repo contains the materials for AE353. The course concluded on May 15, 2026 and it has now been archived. 
 
 ## Acknowledgements
 
